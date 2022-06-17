@@ -1,3 +1,4 @@
+// See https://github.com/nickboucher/trojan-source
 public class HomoglyphFunction
 {
     public static void sаyHello() {
