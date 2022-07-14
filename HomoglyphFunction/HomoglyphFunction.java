@@ -1,4 +1,4 @@
-// See https://github.com/nickboucher/trojan-source
+// See https://github.com/nickboucher/trojan-source  -*- coding: utf-8-dos; -*-
 public class HomoglyphFunction
 {
     public static void sаyHello() {
