@@ -2,11 +2,11 @@
 public class HomoglyphFunction
 {
     public static void sаyHello() {
-        System.out.println("Hello, Worled!");
+        System.out.println("Hello, World!");
     }
 
     public static void sayHello() {
-        System.out.println("Hello, Worled!");
+        System.out.println("Hello, World!");
     }
 
     public static void main(String[] args) {
